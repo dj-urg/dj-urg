@@ -8,8 +8,6 @@ I'm a PhD Candidate at Vrije Universiteit Brussel. My work focuses on data visua
 
 ## 🔭 Current Projects
 - **data-mirroring**: Facilitating user reflection on social media usage through data conversion and visualization
-- **digital-methods-coding-introduction**: Teaching materials for digital research methods
-- **rng**: YouTube API code for Red And Green project
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -18,7 +16,9 @@ I'm a PhD Candidate at Vrije Universiteit Brussel. My work focuses on data visua
 ![](https://img.shields.io/badge/Research-ORCID-informational?style=flat&logo=orcid&logoColor=white&color=2bbc8a)
 
 ## 📈 My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dj-urg&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dj-urg&theme=radical)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dj-urg&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔥 My Contributions in 3D
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
