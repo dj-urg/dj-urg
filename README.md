@@ -4,7 +4,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1771--6673-green?style=flat-square&logo=orcid)](https://orcid.org/0000-0003-1771-6673)
 
 ## About Me
-I'm a researcher at Vrije Universiteit Brussel. My work focuses on data visualization and social media analysis. I create tools that help users understand their digital footprint and online behavior patterns.
+I'm a PhD Candidate at Vrije Universiteit Brussel. My work focuses on data visualization and digital media analysis.
 
 ## 🔭 Current Projects
 - **data-mirroring**: Facilitating user reflection on social media usage through data conversion and visualization
@@ -26,7 +26,7 @@ I'm a researcher at Vrije Universiteit Brussel. My work focuses on data visualiz
 ## 📫 How to Reach Me
 - Academic: [ORCID](https://orcid.org/0000-0003-1771-6673)
 - Web: [dj-urg.github.io](https://dj-urg.github.io)
-- Pronouns: he/him
+- Email: daniel.jurg@vub.be
 
 ## 🌱 I'm currently learning
 - Advanced data visualization techniques
