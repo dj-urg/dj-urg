@@ -1,34 +1,49 @@
 # Hello, I'm Daniel Jurg 👋
 
-[![Website](https://img.shields.io/badge/Website-dj--urg.github.io-blue?style=flat-square&logo=github)](https://dj-urg.github.io)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1771--6673-green?style=flat-square&logo=orcid)](https://orcid.org/0000-0003-1771-6673)
+[![Website](https://img.shields.io/badge/Website-dj--urg.github.io-0077B5?style=flat-square&logo=github&logoColor=white)](https://dj-urg.github.io)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1771--6673-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1771-6673)
 
 ## About Me
+
 I'm a PhD Candidate at Vrije Universiteit Brussel. My work focuses on data visualization and digital media analysis.
 
 ## 🔭 Current Projects
+
 - **data-mirroring**: Facilitating user reflection on social media usage through data conversion and visualization
 
 ## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Research-ORCID-informational?style=flat&logo=orcid&logoColor=white&color=2bbc8a)
 
-## 📈 My GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dj-urg&theme=radical)](https://git.io/streak-stats)
+![](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Code-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Tools-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Research-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dj-urg&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Insights
 
-## 🔥 My Contributions in 3D
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<div align="center">
+  <a href="https://github.com/dj-urg">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dj-urg&theme=default&hide_border=true&background=FFFFFF" />
+  </a>
+  <a href="https://github.com/dj-urg">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj-urg&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF" />
+  </a>
+</div>
+
+## ✨ Contribution Visualization
+
+<div align="center">
+  <img width="800" src="./profile-3d-contrib/profile-green.svg" />
+  <p><em>My GitHub contributions, visualized with clarity and precision.</em></p>
+</div>
 
 ## 📫 How to Reach Me
+
 - Academic: [ORCID](https://orcid.org/0000-0003-1771-6673)
 - Web: [dj-urg.github.io](https://dj-urg.github.io)
 - Email: daniel.jurg@vub.be
 
 ## 🌱 I'm currently learning
+
 - Advanced data visualization techniques
 - Digital research methodologies
 - YouTube API implementation
