@@ -33,7 +33,6 @@ I'm a PhD Candidate at Vrije Universiteit Brussel. My work focuses on data visua
 
 <div align="center">
   <img width="800" src="./profile-3d-contrib/profile-green.svg" />
-  <p><em>My GitHub contributions, visualized with clarity and precision.</em></p>
 </div>
 
 ## 📫 How to Reach Me
