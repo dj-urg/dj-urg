@@ -3,9 +3,12 @@ name: GitHub 3D Contribution Graph
 # Run this workflow every day at midnight
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # This runs at midnight every day
   # Allow manual trigger
   workflow_dispatch:
+  # Also run when pushing to main branch
+  push:
+    branches: [ main ]
 
 jobs:
   build:
@@ -13,18 +16,55 @@ jobs:
     name: Generate 3D Contribution Graph
     
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # We need full history for contributions
       
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          # Apple-inspired styling
+          SETTING_JSON: >
+            {
+              "type": "standard",
+              "year": 2025,
+              "theme": "white",
+              "isAnimate": true,
+              "displayHeight": 500,
+              "displayWidth": 900,
+              "cell": {
+                "legend": true,
+                "scale": 0.8,
+                "spacing": 2.5,
+                "roundCorner": true,
+                "metaData": true
+              },
+              "colorPattern": [
+                "#f5f5f7",
+                "#E3F2FD",
+                "#90CAF9",
+                "#42A5F5",
+                "#0D47A1"
+              ]
+            }
+          
+      - name: Verify Output
+        run: |
+          if [ -d "profile-3d-contrib" ]; then
+            echo "✅ 3D Contribution graph generated successfully!"
+            ls -la profile-3d-contrib/
+          else
+            echo "❌ Failed to generate 3D contribution graph"
+            exit 1
+          fi
           
       - name: Commit and Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "Updated 3D Contribution Graph" || echo "No changes to commit"
+          git commit -m "Updated 3D Contribution Graph for $(date +'%Y-%m-%d')" || echo "No changes to commit"
           git push
