@@ -5,12 +5,12 @@
 
 <p align="center">
   <a href="https://dj-urg.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=70A5FD&center=true&vCenter=true&width=640&lines=Studying+YouTube+audiences+%26+reactionary+politics;Building+privacy-first+data+donation+tools;Auditing+what+AI+chatbots+say+about+the+news;PhD+researcher+%40+imec-SMIT%2C+VUB" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=70A5FD&center=true&vCenter=true&width=900&lines=Studying+YouTube+audiences+%26+reactionary+politics;Building+privacy-first+data+donation+tools;Auditing+what+AI+chatbots+say+about+the+news;PhD+researcher+%40+imec-SMIT%2C+VUB" alt="Typing intro"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://dj-urg.github.io"><img src="https://img.shields.io/badge/Website-1a1b27?style=for-the-badge&logo=githubpages&logoColor=70a5fd" alt="Website"/></a>
+  <a href="https://dj-urg.github.io"><img src="https://img.shields.io/badge/Website-1a1b27?style=for-the-badge&logo=github&logoColor=70a5fd" alt="Website"/></a>
   <a href="https://orcid.org/0000-0003-1771-6673"><img src="https://img.shields.io/badge/ORCID-1a1b27?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID"/></a>
   <a href="mailto:daniel.jurg@vub.be"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=maildotru&logoColor=bf91f3" alt="Email"/></a>
 </p>
@@ -24,16 +24,15 @@
 <h3 align="center">🧪 Research software</h3>
 
 <p align="center">
-  <a href="https://github.com/dj-urg/data-mirroring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dj-urg&repo=data-mirroring&theme=tokyonight&hide_border=true&border_radius=12" alt="data-mirroring"/></a>
-  <a href="https://github.com/dj-urg/ai-mirror-export"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dj-urg&repo=ai-mirror-export&theme=tokyonight&hide_border=true&border_radius=12" alt="ai-mirror-export"/></a>
-  <a href="https://github.com/dj-urg/EU-AI-CSS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dj-urg&repo=EU-AI-CSS&theme=tokyonight&hide_border=true&border_radius=12" alt="EU-AI-CSS"/></a>
+  <a href="https://github.com/dj-urg/data-mirroring"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dj-urg&repo=data-mirroring&theme=tokyonight&hide_border=true&border_radius=12" alt="data-mirroring"/></a>
+  <a href="https://github.com/dj-urg/ai-mirror-export"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dj-urg&repo=ai-mirror-export&theme=tokyonight&hide_border=true&border_radius=12" alt="ai-mirror-export"/></a>
 </p>
 
 <!-- Stats -->
 <h3 align="center">📊 Stats</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dj-urg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dj-urg&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj-urg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages"/>
 </p>
 
