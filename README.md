@@ -41,10 +41,6 @@
   <img src="https://streak-stats.demolab.com?user=dj-urg&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak"/>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dj-urg&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Activity graph"/>
-</p>
-
 <!-- Contributions -->
 <p align="center">
   <img width="800" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
