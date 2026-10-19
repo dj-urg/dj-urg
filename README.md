@@ -1,52 +1,63 @@
-# Hello, I'm Daniel Jurg 👋
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:bf91f3&height=200&section=header&text=Daniel%20Jurg&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Digital%20methods%20%C2%B7%20Platform%20data%20%C2%B7%20Audience%20research&descSize=18&descAlignY=58&animation=fadeIn" alt="Daniel Jurg"/>
+</p>
 
-[![Website](https://img.shields.io/badge/Website-dj--urg.github.io-0077B5?style=flat-square&logo=github&logoColor=white)](https://dj-urg.github.io)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1771--6673-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1771-6673)
-
-## About Me
-
-I'm a PhD Candidate at Vrije Universiteit Brussel. My work focuses on data visualization and digital media analysis.
-
-## 🔭 Current Projects
-
-- **data-mirroring**: Facilitating user reflection on social media usage through data conversion and visualization
-
-## 🛠️ Technologies & Tools
-
-![](https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Code-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Tools-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/Research-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)
-
-## 📊 GitHub Insights
-
-<div align="center">
-  <a href="https://github.com/dj-urg">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dj-urg&theme=default&hide_border=true&background=FFFFFF" />
+<p align="center">
+  <a href="https://dj-urg.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=70A5FD&center=true&vCenter=true&width=640&lines=Studying+YouTube+audiences+%26+reactionary+politics;Building+privacy-first+data+donation+tools;Auditing+what+AI+chatbots+say+about+the+news;PhD+researcher+%40+imec-SMIT%2C+VUB" alt="Typing intro"/>
   </a>
-  <a href="https://github.com/dj-urg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj-urg&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF" />
-  </a>
-</div>
+</p>
 
-## ✨ Contribution Visualization
+<p align="center">
+  <a href="https://dj-urg.github.io"><img src="https://img.shields.io/badge/Website-1a1b27?style=for-the-badge&logo=githubpages&logoColor=70a5fd" alt="Website"/></a>
+  <a href="https://orcid.org/0000-0003-1771-6673"><img src="https://img.shields.io/badge/ORCID-1a1b27?style=for-the-badge&logo=orcid&logoColor=A6CE39" alt="ORCID"/></a>
+  <a href="mailto:daniel.jurg@vub.be"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=maildotru&logoColor=bf91f3" alt="Email"/></a>
+</p>
 
-<div align="center">
-  <img width="800" src="./profile-3d-contrib/profile-green.svg" />
-</div>
+<!-- Toolbox -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,postgres,docker,rust,linux,bash,githubactions,vscode&theme=dark&perline=9" alt="Toolbox"/>
+</p>
 
-## 📫 How to Reach Me
+<!-- Projects -->
+<h3 align="center">🧪 Research software</h3>
 
-- Academic: [ORCID](https://orcid.org/0000-0003-1771-6673)
-- Web: [dj-urg.github.io](https://dj-urg.github.io)
-- Email: daniel.jurg@vub.be
+<p align="center">
+  <a href="https://github.com/dj-urg/data-mirroring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dj-urg&repo=data-mirroring&theme=tokyonight&hide_border=true&border_radius=12" alt="data-mirroring"/></a>
+  <a href="https://github.com/dj-urg/ai-mirror-export"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dj-urg&repo=ai-mirror-export&theme=tokyonight&hide_border=true&border_radius=12" alt="ai-mirror-export"/></a>
+  <a href="https://github.com/dj-urg/EU-AI-CSS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dj-urg&repo=EU-AI-CSS&theme=tokyonight&hide_border=true&border_radius=12" alt="EU-AI-CSS"/></a>
+</p>
 
-## 🌱 I'm currently learning
+<!-- Stats -->
+<h3 align="center">📊 Stats</h3>
 
-- Advanced data visualization techniques
-- Digital research methodologies
-- YouTube API implementation
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dj-urg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj-urg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages"/>
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dj-urg&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak"/>
+</p>
 
-⭐️ From [dj-urg](https://github.com/dj-urg)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dj-urg&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Activity graph"/>
+</p>
+
+<!-- Contributions -->
+<p align="center">
+  <img width="800" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dj-urg/dj-urg/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/dj-urg/dj-urg/output/github-snake.svg" alt="Contribution snake"/>
+  </picture>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:bf91f3&height=110&section=footer" alt=""/>
+</p>
